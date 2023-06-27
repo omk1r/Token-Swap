@@ -2,7 +2,7 @@
 this is a token swap which I created with the reference of moralis Web3 youtube tutorial
 
 In this tutorial I have used
-React to create a User Interface to swap tokens
-Moralis Api to fetch realtime prices of tokens
-Wagmi to connect to wallet
-1inch Aggregator to make swaps in realtime
+1. React to create a User Interface to swap tokens
+2. Moralis Api to fetch realtime prices of tokens
+3. Wagmi to connect to wallet
+4. 1inch Aggregator to make swaps in realtime
